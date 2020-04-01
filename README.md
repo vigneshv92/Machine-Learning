@@ -1,5 +1,10 @@
 # Courses and Syllabus
 
+Prerequisite: Python for Data Analysis
+Prerequisite: SQL
+Prerequisite: Command Line Essentials
+Prerequisite: Git & Github
+
 This program is all about machine learning techniques used in data science. Here is an overview of what you can expect as you move through the classroom.
 
 There are three parts (or courses) indicated by the three portions available at the very intro of your classroom.
