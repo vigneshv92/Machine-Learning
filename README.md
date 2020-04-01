@@ -1,9 +1,7 @@
 # Courses and Syllabus
 
-Prerequisite: Python for Data Analysis
-Prerequisite: SQL
-Prerequisite: Command Line Essentials
-Prerequisite: Git & Github
+Prerequisite: Python for Data Analysis, SQL, Command Line Essentials, Git & Github.
+Additional Material: Data Visualization, Practical Statistics, Linear Algebra.
 
 This program is all about machine learning techniques used in data science. Here is an overview of what you can expect as you move through the classroom.
 
