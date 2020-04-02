@@ -8,7 +8,7 @@ This program is all about machine learning techniques used in data science. Here
 There are three parts (or courses) indicated by the three portions available at the very intro of your classroom.
 
 ## Supervised, Deep, and Unsupervised Learning courses.
-<p align="center"><img src="Visual Representations/Types of Machine Learning.png" width="700" height="300"/></p>
+<img src="Visual Representations/Types of Machine Learning.png" width="700" height="300"/></p>
 
 ## Supervised Learning
 First, we'll start by teaching you how to train and test models using sklearn. We'll go over the main metrics used for evaluating models, such as accuracy, precision, recall, etc. Then, we'll learn about common supervised learning algorithms, including linear and logistic regression, decision trees, naive Bayes, neural networks, and support vector machines. We'll also learn to combine these algorithms to achieve their full potential, in the ensemble methods section. Every section is equipped with a lab, where you'll get to apply your knowledge using sklearn.
