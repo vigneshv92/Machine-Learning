@@ -19,5 +19,3 @@ In this section, we'll be learning the foundational math and theory behind neura
 
 ## Unsupervised Learning
 In this section, we'll be going over the main unsupervised learning algorithms, including several clustering methods, and dimensionality reduction. Unsupervised learning is all about finding groupings in data without specific metrics, like accuracy, to aim for; it is also used heavily in reducing the dimensionality of data. You'll go through several mini-projects and labs in which you'll be able to apply these concepts with real data.
-
-## Course Projects
