@@ -19,3 +19,20 @@ In this section, we'll be learning the foundational math and theory behind neura
 
 ## Unsupervised Learning
 In this section, we'll be going over the main unsupervised learning algorithms, including several clustering methods, and dimensionality reduction. Unsupervised learning is all about finding groupings in data without specific metrics, like accuracy, to aim for; it is also used heavily in reducing the dimensionality of data. You'll go through several mini-projects and labs in which you'll be able to apply these concepts with real data.
+
+## Projects
+
+This Nanodegree program includes four projects, which you can learn more about, below! Completing the projects will not only help you build your skills with topics like software engineering and machine learning model deployment, but also show you how those skills are used in practice and build out your technical portfolio.
+
+Don't worry if you are not familiar with how you would even approach some of the items discussed below, you will be learning the needed skills in the lessons ahead!
+
+### Project 1: Deploying a Sentiment Analysis Model
+You have experience building and training machine learning models, and in this first project, you'll learn how to deploy a model to a production environment. Using Amazon SageMaker, you'll deploy your own PyTorch sentiment analysis model, which is trained to recognize the sentiment of movie reviews (positive or negative). Deployment gives you the ability to use a trained model to analyze new, user input. Once you deploy a trained model, you can create a gateway for accessing it from a website.
+Example movie reviews.
+
+### Project 2: Deploying a Plagiarism Detector
+In this project, you'll complete a machine learning workflow, going from analyzing and exploring a corpus of text data, to extracting features that may be used to indicate plagiarism between a source and answer text. Finally, you'll upload transformed data into a SageMaker notebook instance and train and deploy a custom model for plagiarism classification! This project tests your ability to do feature engineering and model deployment.
+Image depicting steps from data exploration to model deployment.
+
+### Project 3: Capstone Project
+The final project is open for you to do any project of your choosing, to add to your portfolio. One of the projects you may choose to do is a second project with the messy Arvato data. Alternatively, you might choose another project using Deep Learning to classify dog breeds. Here is a glimpse of the final project.
