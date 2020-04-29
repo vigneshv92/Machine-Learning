@@ -20,6 +20,35 @@ In this section, we'll be learning the foundational math and theory behind neura
 ## Unsupervised Learning
 In this section, we'll be going over the main unsupervised learning algorithms, including several clustering methods, and dimensionality reduction. Unsupervised learning is all about finding groupings in data without specific metrics, like accuracy, to aim for; it is also used heavily in reducing the dimensionality of data. You'll go through several mini-projects and labs in which you'll be able to apply these concepts with real data.
 
+## Courses and Syllabus
+
+This program is all about advanced machine learning techniques used in the industry. Here is an overview of what you can expect as you move through the classroom.
+
+The content is divided into modules listed below
+
+----
+
+* Software Engineering Fundamentals
+* Machine Learning in Production
+* Machine Learning Deployment Case Studies
+* Build Your Own Machine Learning Portfolio (Capstone) Project.
+* Software Engineering Fundamentals
+
+----
+
+First, we'll start by teaching you some best practices for software engineering. You'll learn how to optimize your code, write tests and documentation for a code base, and build a Python package of your own. These skills are valuable in any engineering job and will act as a great foundation for applying machine learning skills in industry.
+
+### Machine Learning in Production
+In this section, you'll learn about cloud services and model deployment. Deployment means making a model available for use in a piece of hardware or web application, such as a voice assistant or recommendation engine. In this lesson, you'll see how to analyze housing data and deploy a predictive model in SageMaker. In addition to learning about model deployment, you’ll also learn about model serving and updating. You'll learn how to connect a deployed model to a website through an API using AWS services. After deploying the model, you’ll update the model to account for changes in the underlying text data—an especially valuable skill in industries that continuously collect data. By the end of this section, you should have all the skills you need to train and deploy models to solve tasks of your own design!
+
+### Machine Learning, Deployment Case Studies
+In partnership with AWS, we’ve created a course that examines a variety of machine learning models as they are applied, at-scale, to real-world tasks. You’ll learn how to deploy both unsupervised and supervised algorithms and apply them to tasks such as feature engineering and time series forecasting. This content addresses questions such as:
+
+How do you decide on the correct machine learning model for a given task?
+How can you utilize cloud deployment tools such as AWS SageMaker to work with data and improve your machine learning models?
+
+----
+
 ## Projects
 
 This Nanodegree program includes four projects, which you can learn more about, below! Completing the projects will not only help you build your skills with topics like software engineering and machine learning model deployment, but also show you how those skills are used in practice and build out your technical portfolio.
@@ -36,3 +65,5 @@ Image depicting steps from data exploration to model deployment.
 
 ### Project 3: Capstone Project
 The final project is open for you to do any project of your choosing, to add to your portfolio. One of the projects you may choose to do is a second project with the messy Arvato data. Alternatively, you might choose another project using Deep Learning to classify dog breeds. Here is a glimpse of the final project.
+
+----
