@@ -28,24 +28,27 @@ Looking at the graph, notice that traditional infrastructure doesn't scale when 
 Summary of Benefits of Risks Associated with Cloud Computing
 The capacity utilization graph above was initially used by cloud providers like Amazon to illustrate the benefits of cloud computing. Summarized below are the benefits of cloud computing that are often what drives businesses to include cloud services in their IT infrastructure [1]. These same benefits are echoed in those provided by cloud providers Amazon (benefits), Google (benefits), and Microsoft (benefits).
 
-Benefits
-Reduced Investments and Proportional Costs (providing cost reduction)
+#### Benefits
 
-Increased Scalability (providing simplified capacity planning)
+* Reduced Investments and Proportional Costs (providing cost reduction)
 
-Increased Availability and Reliability (providing organizational agility)
+* Increased Scalability (providing simplified capacity planning)
+
+* Increased Availability and Reliability (providing organizational agility)
 
 Below we have also summarized he risks associated with cloud computing [1]. Cloud providers don't typically highlight the risks assumed when using their cloud services like they do with the benefits, but cloud providers like: Amazon ([security](https://aws.amazon.com/security/introduction-to-cloud-security/)), Google ([security](https://cloud.google.com/security/data-safety/)), and Microsoft ([security](https://www.microsoft.com/en-us/TrustCenter/CloudServices/Azure/default.aspx)) often provide details on security of their cloud services. It's up to the cloud user to understand the compliance and legal issues associated with housing data within a cloud provider's data center instead of on-premise. The service level agreements (SLA) provided for a cloud service often highlight security responsibilities of the cloud provider and those assumed by the cloud user.
 
-Risks
-(Potential) Increase in Security Vulnerabilities 
+#### Risks
 
-Reduced Operational Governance Control (over cloud resources)
+* (Potential) Increase in Security Vulnerabilities 
 
-Limited Portability Between Cloud Providers
+* Reduced Operational Governance Control (over cloud resources)
 
-Multi-regional Compliance and Legal Issues
-References
+* Limited Portability Between Cloud Providers
+
+#### Multi-regional Compliance and Legal Issues
+##### References
+
 1.   Erl, T., Mahmood, Z., & Puttini R,. (2013). Cloud Computing: Concepts, Technology, & Architecture. Upper Saddle River, NJ: Prentice Hall.
 
         Chapter 3: Understanding Cloud Computing provides an outline of the business drivers, benefits and risks of cloud computing.
