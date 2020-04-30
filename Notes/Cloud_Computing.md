@@ -23,6 +23,8 @@ Most of the factors related to choosing cloud computing services, instead of dev
 
 Capacity in the graph below can be thought of as the IT resources like: compute capacity, storage, and networking, that's needed to meet customer demand for a business' products and the costs associated with those IT resources. In our vacation photos example, customer demand is for storing and sharing customer photos. The IT resources are the required software and hardware that enables photo storage and sharing in the cloud or on-premise (traditional infrastructure).
 
+<img src="/Visual Representations/capacity_utilization_curve.png"/>
+
 Looking at the graph, notice that traditional infrastructure doesn't scale when there are spikes in demand, and also leaves excess when preparing for future demand. This ability to easily meet unstable, fluctuating customer demand illustrates many of the benefits of cloud computing.
 
 Summary of Benefits of Risks Associated with Cloud Computing
