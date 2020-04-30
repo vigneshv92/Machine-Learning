@@ -56,4 +56,4 @@ National Institute of Standards and Technology formal definition of [Cloud Compu
 Kavis, M. (2014). Architecting the Cloud: Design Decisions for Cloud Computing Service Models. Hoboken, NJ: Wiley. Chapter 3 provides the worst practices of cloud computing which highlights both risks and benefits of cloud computing. Chapter 9 provides the security responsibilities by service model.
 Amazon Web Services (AWS) discusses their definition of [Cloud Computing.](https://aws.amazon.com/what-is-cloud-computing/)
 Google Cloud Platform (GCP) discusses their definition of [Cloud Computing.](https://cloud.google.com/what-is-cloud-computing/)
-Microsoft Azure (Azure) discusses their definition of Cloud Computing.
+Microsoft Azure (Azure) discusses their definition of [Cloud Computing.](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
