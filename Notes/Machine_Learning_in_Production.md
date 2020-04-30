@@ -66,9 +66,10 @@ The second method is to code the model in Predictive Model Markup Language (PMML
 #### Model is Converted into Format that’s used in the Production Environment
 The third method is to build a Python model and use libraries and methods that convert the model into code that can be used in the production environment. Specifically most popular machine learning software frameworks, like PyTorch, TensorFlow, SciKit-Learn, have methods that will convert Python models into intermediate standard format, like ONNX (Open Neural Network Exchange format). This intermediate standard format then can be converted into the software native to the production environment.
 
-This is the easiest and fastest way to move a Python model from modeling directly to deployment.
-Moving forward this is typically the way models are moved into the production environment.
-Technologies like containers, endpoints, and APIs (Application Programming Interfaces) also help ease the work required for deploying a model into the production environment.
+* This is the easiest and fastest way to move a Python model from modeling directly to deployment.
+* Moving forward this is typically the way models are moved into the production environment.
+* Technologies like containers, endpoints, and APIs (Application Programming Interfaces) also help ease the work required for deploying a model into the production environment.
+
 We will discuss these technologies in more detail in the next sections.
 
 ### Machine Learning Workflow and DevOps
