@@ -30,3 +30,12 @@ Below are links that provide more detailed information on the Machine Learning W
 2. Google Cloud Platform (GCP) discusses their definition of the [Machine Learning Workflow.](https://cloud.google.com/ml-engine/docs/tensorflow/ml-solutions-overview)
 
 3. Microsoft Azure (Azure) discusses their definition of the [Machine Learning Workflow.](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
+
+## Notes:
+All algorithms used within the machine learning workflow are similar for both the cloud and on-premise computing. The only real difference may be in the user interface and libraries that will be used to execute the machine learning workflow.
+
+For personal use, one’s likely to use cloud services, if they don’t have enough computing capacity.
+
+With academic use, quite often one will use the university’s on-premise computing resources, given their availability. For smaller universities or research groups with few funding resources, cloud services might offer a viable alternative to university computing resources.
+
+For workplace usage, the amount of cloud resources used depends upon an organization’s existing infrastructure and their vulnerability to the risks of cloud computing. A workplace may have security concerns, operational governance concerns, and/or compliance and legal concerns regarding cloud usage. Additionally, a workplace may already have on-premise infrastructure that supports the workflow; therefore, making cloud usage an unnecessary expenditure. Keep in mind, many progressive companies may be incorporating cloud computing into their business due to the business drivers and benefits of cloud computing.
