@@ -49,7 +49,7 @@ This means that moving from modeling to deployment, a model needs to be provided
 ## Paths to Deployment
 There are three primary methods used to transfer a model from the modeling component to the deployment component of the machine learning workflow. We will be discussing them in order of least to most commonly used. The third method that's most similar to what’s used for deployment within Amazon’s SageMaker.
 
-## Paths to Deployment:
+#### Paths to Deployment:
 
 * Python model is recoded into the programming language of the production environment.
  
