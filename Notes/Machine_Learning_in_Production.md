@@ -74,7 +74,9 @@ We will discuss these technologies in more detail in the next sections.
 
 ### Machine Learning Workflow and DevOps
 
-### Machine Learning Workflow and Deployment
+<img src="/Visual Representations/mlworkflow-devops.png" width="700" height="300"/></p>
+
+#### Machine Learning Workflow and Deployment
 Considering the components of the Machine Learning Workflow, one can see how Exploring and Processing Data is tightly coupled with Modeling. The modeling can’t occur without first having the data the model will be based upon prepared for the modeling process.
 
 Comparatively deployment is more tightly coupled with the production environment than with modeling or exploring and processing the data. Therefore, traditionally there’s was a separation between Deployment and the other components of the machine learning workflow. Specifically looking at the diagram above, the Process Data and Modeling are considered Development; whereas, Deployment is typically considered Operations.
