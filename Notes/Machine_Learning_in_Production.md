@@ -23,7 +23,7 @@ At the end of this lesson, you'll understand the broader idea of machine learnin
 ## References
 Below are links that provide more detailed information on the Machine Learning Workflow that we discussed in this section above, described by cloud providers: Amazon, Google, and Microsoft.
 
-1. Amazon Web Services (AWS) discusses their definition of the Machine Learning Workflow.
+1. Amazon Web Services (AWS) discusses their definition of the [Machine Learning Workflow.](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-mlconcepts.html)
 
 2. Google Cloud Platform (GCP) discusses their definition of the Machine Learning Workflow.
 
