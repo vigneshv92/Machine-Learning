@@ -27,4 +27,4 @@ Below are links that provide more detailed information on the Machine Learning W
 
 2. Google Cloud Platform (GCP) discusses their definition of the [Machine Learning Workflow.](https://cloud.google.com/ml-engine/docs/tensorflow/ml-solutions-overview)
 
-3. Microsoft Azure (Azure) discusses their definition of the Machine Learning Workflow.
+3. Microsoft Azure (Azure) discusses their definition of the [Machine Learning Workflow.](https://docs.microsoft.com/en-us/azure/machine-learning/service/overview-what-is-azure-ml)
