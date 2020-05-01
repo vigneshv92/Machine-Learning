@@ -105,3 +105,7 @@ Test driven development for data science is relatively new and has a lot of expe
 * [TDD for Data Science](http://engineering.pivotal.io/post/test-driven-development-for-data-science/)
 * [TDD is Essential for Good Data Science Here's Why](https://medium.com/@karijdempsey/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)
 * [Testing Your Code (general python TDD](http://docs.python-guide.org/en/latest/writing/tests/)
+
+#### Logging
+
+Logging is valuable for understanding the events that occur while running your program. For example, if you run your model over night and see that it's producing ridiculous results the next day, log messages can really help you understand more about the context in which this occurred. Lets learn about the qualities that make a log message effective.
