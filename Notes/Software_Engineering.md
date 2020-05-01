@@ -45,7 +45,7 @@ To install pytest, run pip install -U pytest in your terminal. You can see more 
 Create a test file starting with test_
 Define unit test functions that start with test_ inside the test file
 Enter pytest into your terminal in the directory of your test file and it will detect these tests for you!
-test_ is the default - if you wish to change this, you can learn how to in this pytest configuration
+test_ is the default - if you wish to change this, you can learn how to in this pytest [configuration](https://docs.pytest.org/en/latest/customize.html)
 
 In the test output, periods represent successful unit tests and F's represent failed unit tests. Since all you see is what test functions failed, it's wise to have only one assert statement per test. Otherwise, you wouldn't know exactly how many tests failed, and which tests failed.
 
