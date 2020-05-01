@@ -50,3 +50,16 @@ test_ is the default - if you wish to change this, you can learn how to in this 
 In the test output, periods represent successful unit tests and F's represent failed unit tests. Since all you see is what test functions failed, it's wise to have only one assert statement per test. Otherwise, you wouldn't know exactly how many tests failed, and which tests failed.
 
 Your tests won't be stopped by failed assert statements, but it will stop if you have syntax errors.
+
+Example : 
+
+##### compute_launch.py
+```python
+def days_until_launch(current_day, launch_day):
+    """"Returns the days left before launch.
+    
+    current_day (int) - current day in integer
+    launch_day (int) - launch day in integer
+    """
+    return launch_day - current_day
+```
