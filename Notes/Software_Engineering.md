@@ -101,7 +101,7 @@ def test_days_until_launch_1():
 
 Test driven development for data science is relatively new and has a lot of experimentation and breakthroughs appearing, which you can learn more about in the resources below.
 
-Data Science TDD
+[Data Science TDD](https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/)
 TDD for Data Science
 TDD is Essential for Good Data Science Here's Why
 Testing Your Code (general python TDD)
