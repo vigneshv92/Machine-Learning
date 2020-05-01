@@ -25,3 +25,8 @@ Here are some resources for useful ways and tools for managing versions of model
 On the job, you’ll always be learning new skills, and many of them will be specific to the processes set in your company.
 
 [How to Version Control Your Production Machine Learning Models](https://blog.algorithmia.com/how-to-version-control-your-production-machine-learning-models/)
+
+## Code Refactoring 
+
+## Code Optimisation
+
