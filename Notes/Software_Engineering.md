@@ -1,5 +1,5 @@
 ----
-## Welcome To Software Engineering Practices Part I
+## Welcome To Software Engineering Practices
 ----
 In this lesson, you'll learn about the following practices of software engineering and how they apply in data science.
 
