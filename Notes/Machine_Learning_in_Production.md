@@ -89,3 +89,11 @@ In the past typically, development was handled by analysts; whereas, operations 
 
 ### Deployment within Machine Learning Curriculum
 Deployment is not commonly included in machine learning curriculum. This likely is associated with the analyst's typical focus on Exploring and Processing Data and Modeling, and the software developer's focusing more on Deployment and the production environment. Advances in cloud services, like [SageMaker](https://aws.amazon.com/sagemaker/) and [ML Engine](https://cloud.google.com/ml-engine/), and deployment technologies, like Containers and REST APIs, allow for analysts to easily take on the responsibilities of deployment.
+
+## Production Environment and the Endpoint
+When we discussed the production environment, the endpoint was defined as the interface to the model. This interface (endpoint) facilitates an ease of communication between the model and the application. Specifically, this interface (endpoint)
+
+* Allows the application to send user data to the model and
+* Receives predictions back from the model based upon that user data.
+
+Model, Application, and Endpoint
