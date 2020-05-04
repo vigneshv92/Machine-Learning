@@ -251,3 +251,5 @@ Specifically, a hyperparameter is not directly learned through the estimators; t
 This means that hyperparameter tuning for optimization is an important part of model training.
 Often cloud platform machine learning services provide methods that allow for automatic hyperparameter tuning for use with model training.
 If the machine learning platform fails to offer an automatic hyperparameter option, one option is to use methods from scikit-learn Python library for hyperparameter tuning. [Scikit-learn](https://scikit-learn.org/stable/) is a free machine learning Python library that includes methods that help with [hyperparameter tuning.](https://scikit-learn.org/stable/modules/grid_search.html#)
+
+<img src="/Visual Representations/mlworkflow-deployment-chars.png"/></p> 
