@@ -96,4 +96,4 @@ When we discussed the production environment, the endpoint was defined as the in
 * Allows the application to send user data to the model and
 * Receives predictions back from the model based upon that user data.
 
-Model, Application, and Endpoint
+## Model, Application, and Endpoint
