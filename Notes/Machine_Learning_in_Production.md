@@ -112,7 +112,7 @@ The image above depicts the association between a Python program and the endpoin
 * the model: beginning on line 14 function definition for ml_model
 * the application: Python program web_app.py
 
-----
+<img src="/Visual Representations/endpointprogram-2.png"/></p> 
 
 Using this example above notice the following:
 
@@ -145,7 +145,7 @@ The HTTP request that’s sent from your application to your model is composed o
 * Message (Data or Body)
   * The final part is the message (data or body); for deployment will contain the user’s data which is input into the model.
 
-----
+<img src="/Visual Representations/httpmethods.png"/></p> 
 
 The HTTP response sent from your model to your application is composed of three parts:
 
