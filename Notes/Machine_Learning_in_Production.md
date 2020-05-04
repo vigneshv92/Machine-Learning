@@ -171,7 +171,7 @@ Notice the following regarding the information included in the HTTP messages sen
 
 ## Containers
 
-----
+<img src="/Visual Representations/m6-l1-c04-endpoint.png"/></p> 
 
 ### Model, Application, and Containers
 When we discussed the production environment, it was composed of two primary programs, the model and the application, that communicate with each other through the endpoint (interface).
@@ -221,7 +221,7 @@ This architecture of containers provides the following advantages:
 4. Provides a more simple and secure way to replicate, save, and share containers.
  
  
-----
+<img src="/Visual Representations/container-1.png"/></p> 
 
 As indicated by the fourth advantage of using containers, a container script file is used to create a container.
 
@@ -229,3 +229,5 @@ As indicated by the fourth advantage of using containers, a container script fil
 * This container script is simply the instructions (algorithm) that is used to create a container; for Docker these container scripts are referred to as dockerfiles.
 
 This is shown with the image below, where the container engine uses a container script to create a container for an application to run within. These container script files can be stored in repositories, which provide a simple means to share and replicate containers. For Docker, the [Docker Hub](https://hub.docker.com/explore/) is the official repository for storing and sharing dockerfiles. Here's an example of a [dockerfile](https://github.com/pytorch/pytorch/blob/master/docker/pytorch/Dockerfile) that creates a docker container with Python 3.6 and PyTorch installed.
+
+<img src="/Visual Representations/container-2.png"/></p> 
