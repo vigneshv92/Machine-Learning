@@ -242,3 +242,12 @@ Also remember that a production environment can be thought of as a web, mobile, 
 Keeping these things in mind, there are a number of characteristics of deployment and modeling that I’m going to introduce here. These concepts are introduced now to provide you with familiarity with these concepts for when you see them discussed in future lessons. Specifically, these concepts are provided as features that are made easier to use within cloud platforms services than if implemented with your own code.
 
 <img src="/Visual Representations/mlworkflow-modeling-hyperparameter.png"/></p> 
+
+### Characteristics of Modeling
+#### Hyperparameters
+In machine learning, a hyperparameter is a parameter whose value cannot be estimated from the data.
+
+Specifically, a hyperparameter is not directly learned through the estimators; therefore, their value must be set by the model developer.
+This means that hyperparameter tuning for optimization is an important part of model training.
+Often cloud platform machine learning services provide methods that allow for automatic hyperparameter tuning for use with model training.
+If the machine learning platform fails to offer an automatic hyperparameter option, one option is to use methods from scikit-learn Python library for hyperparameter tuning. [Scikit-learn](https://scikit-learn.org/stable/) is a free machine learning Python library that includes methods that help with [hyperparameter tuning.](https://scikit-learn.org/stable/modules/grid_search.html#)
