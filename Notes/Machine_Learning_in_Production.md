@@ -134,13 +134,13 @@ Communication between the application and the model is done through the endpoint
 The HTTP request that’s sent from your application to your model is composed of four parts:
 
 * Endpoint
-This endpoint will be in the form of a URL, Uniform Resource Locator, which is commonly known as a web address.
+  * This endpoint will be in the form of a URL, Uniform Resource Locator, which is commonly known as a web address.
 
 * HTTP Method
-Below you will find four of the HTTP methods, but for purposes of deployment our application will use the POST method only.
+  * Below you will find four of the HTTP methods, but for purposes of deployment our application will use the POST method only.
 
 * HTTP Headers
-The headers will contain additional information, like the format of the data within the message, that’s passed to the receiving program.
+  * The headers will contain additional information, like the format of the data within the message, that’s passed to the receiving program.
 
 * Message (Data or Body)
-The final part is the message (data or body); for deployment will contain the user’s data which is input into the model.
+  * The final part is the message (data or body); for deployment will contain the user’s data which is input into the model.
