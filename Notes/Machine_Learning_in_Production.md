@@ -233,3 +233,12 @@ This is shown with the image below, where the container engine uses a container 
 <img src="/Visual Representations/container-2.png"/></p> 
 
 ## Characteristics of Deployment and Modeling
+
+###### Recall that:
+Deployment to production can simply be thought of as a method that integrates a machine learning model into an existing production environment so that the model can be used to make decisions or predictions based upon data input into this model.
+
+Also remember that a production environment can be thought of as a web, mobile, or other software application that is currently being used by many people and must respond quickly to those users’ requests.
+
+Keeping these things in mind, there are a number of characteristics of deployment and modeling that I’m going to introduce here. These concepts are introduced now to provide you with familiarity with these concepts for when you see them discussed in future lessons. Specifically, these concepts are provided as features that are made easier to use within cloud platforms services than if implemented with your own code.
+
+<img src="/Visual Representations/mlworkflow-modeling-hyperparameter.png"/></p> 
