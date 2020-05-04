@@ -97,3 +97,17 @@ When we discussed the production environment, the endpoint was defined as the in
 * Receives predictions back from the model based upon that user data.
 
 ## Model, Application, and Endpoint
+
+---- 
+
+One way to think of the endpoint that acts as this interface, is to think of a Python program where:
+
+* the endpoint itself is like a function call
+* the function itself would be the model and
+* the Python program is the application.
+
+The image above depicts the association between a Python program and the endpoint, model, and application.
+
+* the endpoint: line 8 function call to ml_model
+* the model: beginning on line 14 function definition for ml_model
+* the application: Python program web_app.py
