@@ -111,3 +111,15 @@ The image above depicts the association between a Python program and the endpoin
 * the endpoint: line 8 function call to ml_model
 * the model: beginning on line 14 function definition for ml_model
 * the application: Python program web_app.py
+
+----
+
+Using this example above notice the following:
+
+* Similar to a function call the endpoint accepts user data as the input and returns the model’s prediction based upon this input through the endpoint.
+* In the example, the user data is the input argument and the prediction is the returned value from the function call.
+* The application, here the python program, displays the model’s prediction to the application user.
+
+This example highlights how the endpoint itself is just the interface between the model and the application; where this interface enables users to get predictions from the deployed model based on their user data.
+
+Next we'll focus on how the endpoint (interface) facilitates communication between application and model.
