@@ -98,7 +98,7 @@ When we discussed the production environment, the endpoint was defined as the in
 
 ## Model, Application, and Endpoint
 
----- 
+<img src="/Visual Representations/endpointprogram-1.png"/></p> 
 
 One way to think of the endpoint that acts as this interface, is to think of a Python program where:
 
