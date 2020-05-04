@@ -314,9 +314,12 @@ With these type of predictions, one expects:
 <b> Batch predictions </b> are commonly used to help make business decisions. For example, imagine a business uses a complex model to predict customer satisfaction across a number of their products and they need these estimates for a weekly report. This would require processing customer data through a batch prediction request on a weekly basis.
 
 ## Summary
+
 Let's summarize the ideas covered in this lesson to ensure you are leaving with the most important parts!
 
 Specifically in this lesson, we looked at answering the following questions:
+
+--- 
 
 What is the machine learning workflow?
 
@@ -333,3 +336,5 @@ What does it mean for a model to be deployed?
 What are the crucial characteristics associated with deploying models?
 
 What are different cloud computing platforms we might use to deploy our machine learning models?
+
+---
