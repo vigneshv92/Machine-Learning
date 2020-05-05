@@ -38,5 +38,7 @@ Amazon SageMaker offers a variety of instance types. Interestingly, the type of 
 
 * First, you need to check the List of the AWS Regions that support Amazon SageMaker.
 * Next, you can check the various available Amazon SageMaker ML Instance Types, again.
-A.4. Instances Required for Deep Learning
+
+### 4. Instances Required for Deep Learning
+
 The table below describes the three types of SageMaker instances that you would use in this course:
