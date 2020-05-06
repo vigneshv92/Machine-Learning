@@ -29,7 +29,7 @@ The content is divided into modules listed below
 ----
 
 * Software Engineering Fundamentals
-* Machine Learning in Production
+* [Machine Learning in Production](/Notes/Machine_Learning_in_Production.md)
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
 * Software Engineering Fundamentals
