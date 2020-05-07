@@ -17,8 +17,8 @@ Specifically in this lesson, we will look at answering the following questions:
 
 * What are the essential characteristics associated with the code of deployed models?
 
-> What are different cloud computing platforms we might use to deploy our machine learning models?
-At the end of this lesson, you'll understand the broader idea of machine learning deployment. Then Sean will be guiding you through using SageMaker to deploy your own machine learning models. This is a lot to cover, but by the end you will have a general idea of all the concepts related to deploying machine learning models into real world production systems.
+<b> What are different cloud computing platforms we might use to deploy our machine learning models?</b>
+> At the end of this lesson, you'll understand the broader idea of machine learning deployment. Then Sean will be guiding you through using SageMaker to deploy your own machine learning models. This is a lot to cover, but by the end you will have a general idea of all the concepts related to deploying machine learning models into real world production systems.
 
 ## Machine Learning Workflow
 
