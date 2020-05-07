@@ -1,4 +1,4 @@
-## What's Ahead?
+# What's Ahead?
 In this lesson, you're going to get familiar with what's meant by machine learning deployment. Then in the upcoming lessons, you will put these ideas to practice by using Amazon's SageMaker. SageMaker is just one method for deploying machine learning models.
 
 Specifically in this lesson, we will look at answering the following questions:
