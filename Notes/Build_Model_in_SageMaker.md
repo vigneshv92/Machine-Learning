@@ -55,3 +55,10 @@ The video below guides you through setting up your first notebook instance. Also
 Note: Once a notebook instance has been set up, by default, it will be InService which means that the notebook instance is running. This is important to know because the cost of a notebook instance is based on the length of time that it has been running. This means that once you are finished using a notebook instance you should Stop it so that you are no longer incurring a cost. Don't worry though, you won't lose any data provided you don't delete the instance. Just start the instance back up when you have time and all of your saved data will still be there.
 
 [Setting up a Notebook Instance](https://youtu.be/TRUCNy5Eqjc)
+
+### Searching for SageMaker
+Your main console page may look slightly different than in the above example. You should still be able to find Amazon SageMaker by either:
+
+1. Clicking on All Services then scrolling down and navigating to Machine Learning> Amazon SageMaker, or
+2. By searching for SageMaker, as in the below screenshot (and clicking on it).
+
