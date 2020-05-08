@@ -33,6 +33,7 @@ The content is divided into modules listed below
     * [Introduction to Deployment](/Notes/Machine_Learning_in_Production.md)
     * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
     * [Deploying a Model]()
+    * [Hyperparameter Tuning]()
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
 * Software Engineering Fundamentals
