@@ -29,7 +29,10 @@ The content is divided into modules listed below
 ----
 
 * [Software Engineering Fundamentals](/Notes/Software_Engineering.md)
-* [Machine Learning in Production](/Notes/Machine_Learning_in_Production.md)
+* Machine Learning in Production
+    * [Introduction to Deployment](/Notes/Machine_Learning_in_Production.md)
+    * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
+    * [Deploying a Model]()
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
 * Software Engineering Fundamentals
