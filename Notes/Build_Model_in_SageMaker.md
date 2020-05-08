@@ -43,7 +43,7 @@ Amazon SageMaker offers a variety of instance types. Interestingly, the type of 
 
 The table below describes the three types of SageMaker instances that you would use in this course:
 
-----
+<img src="/Visual Representations/aws-sagemaker.png"/></p>
 
 ### Setting up a Notebook Instance
 The first thing we are going to need to do is set up a notebook instance!
