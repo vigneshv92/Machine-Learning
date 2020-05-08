@@ -43,7 +43,6 @@ Amazon SageMaker offers a variety of instance types. Interestingly, the type of 
 
 The table below describes the three types of SageMaker instances that you would use in this course:
 
-<img src="/Visual Representations/aws-sagemaker.png"/></p>
 
 ### Setting up a Notebook Instance
 The first thing we are going to need to do is set up a notebook instance!
@@ -62,7 +61,7 @@ Your main console page may look slightly different than in the above example. Yo
 1. Clicking on All Services then scrolling down and navigating to Machine Learning> Amazon SageMaker, or
 2. By searching for SageMaker, as in the below screenshot (and clicking on it).
 
-----
+<img src="/Visual Representations/aws-sagemaker.png"/></p>
 
 ### Creating and Running a Notebook Instance
 First, start by logging in to the [AWS console](https://console.aws.amazon.com/), opening the SageMaker dashboard, selecting Notebook Instances and clicking on Create notebook instance.
@@ -71,7 +70,7 @@ You may choose any name you would like for your notebook. Also, using ml.t2.medi
 
 Next, under IAM role select Create a new role. You should get a pop-up window that looks like the one below. The only change that needs to be made is to select None under S3 buckets you specify.
 
-----
+<img src="/Visual Representations/create-an-iam-role.png"/></p>
 
 Once you have finished setting up the role for your notebook, your notebook instance settings should look something like the image below.
 
