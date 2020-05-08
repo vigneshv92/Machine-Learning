@@ -34,6 +34,7 @@ The content is divided into modules listed below
     * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
     * [Deploying a Model]()
     * [Hyperparameter Tuning]()
+    * [Updating a Model]()
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
 * Software Engineering Fundamentals
