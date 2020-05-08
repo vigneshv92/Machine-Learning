@@ -74,7 +74,7 @@ Next, under IAM role select Create a new role. You should get a pop-up window th
 
 Once you have finished setting up the role for your notebook, your notebook instance settings should look something like the image below.
 
-----
+<img src="/Visual Representations/notebook-instance-settings.png"/></p>
 
 Note: Your notebook name may be different than the one displayed and the IAM role that appears will be different.
 
