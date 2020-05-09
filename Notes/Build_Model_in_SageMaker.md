@@ -90,7 +90,7 @@ Once your notebook instance has started and is accessible, click on open to get 
 
 Now that we've had a chance to look at how SageMaker is used, let's take a deeper look at what is going on behind the scenes.
 
-In the previous notebooks we looked at, we use the Python SDK to interact with SageMaker, calling this the high-level approach. Now we will look at the low level approach where we describe different tasks we want SageMaker to perform. The documentation for the low level approach can be found in the Amazon SageMaker Developer Guide
+In the previous notebooks we looked at, we use the Python SDK to interact with SageMaker, calling this the high-level approach. Now we will look at the low level approach where we describe different tasks we want SageMaker to perform. The documentation for the low level approach can be found in the [Amazon SageMaker Developer Guide](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html)
 
 The notebook that we will be looking at in this video and in the remainder of this lesson is contained in the Tutorial folder and is the Boston Housing - XGBoost (Batch Transform) - Low Level.ipynb notebook.
 
