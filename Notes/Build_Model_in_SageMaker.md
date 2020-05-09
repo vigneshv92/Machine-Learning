@@ -86,7 +86,13 @@ Once your notebook instance has started and is accessible, click on open to get 
 
 [Code and associated files](https://github.com/udacity/sagemaker-deployment)
 
-### [Boston Housing In-Depth](https://youtu.be/TA-Ms7djeL0)
+### [Boston Housing In-Depth]
+
+
+(https://youtu.be/TA-Ms7djeL0)
+(https://youtu.be/1CIbWNUSZXo)
+(https://youtu.be/JJyVsmcV2M4)
+(https://youtu.be/JwPJMYRl3nw)
 
 Now that we've had a chance to look at how SageMaker is used, let's take a deeper look at what is going on behind the scenes.
 
