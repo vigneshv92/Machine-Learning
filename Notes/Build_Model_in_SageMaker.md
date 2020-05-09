@@ -91,7 +91,7 @@ Once your notebook instance has started and is accessible, click on open to get 
 * [Data Preparation](https://youtu.be/TA-Ms7djeL0)
 * [Creating a Training Job](https://youtu.be/1CIbWNUSZXo)
 * [Building a Model](https://youtu.be/JJyVsmcV2M4)
-* (https://youtu.be/JwPJMYRl3nw)
+* [Creating a Batch Transform Job](https://youtu.be/JwPJMYRl3nw)
 
 Now that we've had a chance to look at how SageMaker is used, let's take a deeper look at what is going on behind the scenes.
 
