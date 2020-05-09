@@ -89,7 +89,7 @@ Once your notebook instance has started and is accessible, click on open to get 
 ### Boston Housing In-Depth
 
 [Data Preparation](https://youtu.be/TA-Ms7djeL0)
-(https://youtu.be/1CIbWNUSZXo)
+[Creating a Training Job](https://youtu.be/1CIbWNUSZXo)
 (https://youtu.be/JJyVsmcV2M4)
 (https://youtu.be/JwPJMYRl3nw)
 
