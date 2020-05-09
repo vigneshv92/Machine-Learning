@@ -102,3 +102,12 @@ The notebook that we will be looking at in this video and in the remainder of th
 You will notice as we go through the details that describing the different tasks we want SageMaker to do can be quite involved. However there is a reason to understand it!
 
 The high level approach makes developing new models very straightforward, requiring very little code. The reason this can be done is that certain decisions have been made for you. The low level approach allows you to be far more particular in how you want the various tasks executed, which is good for when you want to do something a little more complicated.
+
+## What have we learned so far?
+In this lesson we went over the basics of how models can be constructed and trained using Amazon SageMaker. In addition, we saw some of how SageMaker works and how it interacts with other services.
+
+In particular, we learned how Amazon S3 is used as a central storage service when using SageMaker. In order to train a model, data must first be available on S3, and once the model has been trained, the model artifacts are also stored on S3.
+
+We also saw how to use SageMaker to train models and fit them to data, saving the results (called model artifacts).
+
+Lastly, we looked at how we could use SageMaker's Batch Transform functionality to test our models.
