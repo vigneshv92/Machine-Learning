@@ -111,3 +111,12 @@ In particular, we learned how Amazon S3 is used as a central storage service whe
 We also saw how to use SageMaker to train models and fit them to data, saving the results (called model artifacts).
 
 Lastly, we looked at how we could use SageMaker's Batch Transform functionality to test our models.
+
+## What's next?
+In the next few lessons we are going to look at some of the more advanced functionality of SageMaker.
+
+To begin with, we will look at deploying a model using SageMaker. This means making a model available for other entities to use. Along the way we will create a simple web app that interacts with a deployed model.
+
+In addition, we will look at hyperparameter tuning. Which is a way to train a bunch of different models, all with different hyperparameters, and then select the one that performs the best.
+
+Lastly, we will take a look at updating a deployed model. Sometimes a model may not work as well as it once did due to changes in the underlying data. In this resource, you can read more about how a model's predictions and accuracy may degrade as a result of something called concept drift, which is a change in the underlying data distribution over time. When this happens we might want to update a deployed model, however, our model may be in use so we don't want to shut it down. SageMaker allows us to solve this problem without there being any loss of service.
