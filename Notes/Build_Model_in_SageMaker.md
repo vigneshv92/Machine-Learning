@@ -85,3 +85,7 @@ Once your notebook instance has started and is accessible, click on open to get 
 ## Machine Learning Deployment using AWS SageMaker
 
 [Code and associated files](https://github.com/udacity/sagemaker-deployment)
+
+### Boston Housing In-Depth
+
+https://youtu.be/TA-Ms7djeL0
