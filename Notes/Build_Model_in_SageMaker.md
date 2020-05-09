@@ -87,3 +87,13 @@ Once your notebook instance has started and is accessible, click on open to get 
 [Code and associated files](https://github.com/udacity/sagemaker-deployment)
 
 ### [Boston Housing In-Depth](https://youtu.be/TA-Ms7djeL0)
+
+Now that we've had a chance to look at how SageMaker is used, let's take a deeper look at what is going on behind the scenes.
+
+In the previous notebooks we looked at, we use the Python SDK to interact with SageMaker, calling this the high-level approach. Now we will look at the low level approach where we describe different tasks we want SageMaker to perform. The documentation for the low level approach can be found in the Amazon SageMaker Developer Guide
+
+The notebook that we will be looking at in this video and in the remainder of this lesson is contained in the Tutorial folder and is the Boston Housing - XGBoost (Batch Transform) - Low Level.ipynb notebook.
+
+You will notice as we go through the details that describing the different tasks we want SageMaker to do can be quite involved. However there is a reason to understand it!
+
+The high level approach makes developing new models very straightforward, requiring very little code. The reason this can be done is that certain decisions have been made for you. The low level approach allows you to be far more particular in how you want the various tasks executed, which is good for when you want to do something a little more complicated.
