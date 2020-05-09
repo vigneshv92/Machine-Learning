@@ -81,3 +81,7 @@ Note: Your notebook name may be different than the one displayed and the IAM rol
 Now scroll down and click on Create notebook instance.
 
 Once your notebook instance has started and is accessible, click on open to get to the Jupyter notebook main page.
+
+## Machine Learning Deployment using AWS SageMaker
+
+[Code and associated files] (https://github.com/udacity/sagemaker-deployment)
