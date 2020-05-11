@@ -34,3 +34,8 @@ What this means is that when someone uses our web app, the following will occur.
 
 Don't forget!</br>
 Currently our endpoint is running. The reason for this is that in the next few videos we are going to interact with our deployed endpoint. If you are following along, don't forget that your endpoint is running. If you need to take a break, don't forget to shut down your endpoint!
+
+### Creating and Using Endpoints
+You've just learned a lot about how to use SageMaker to deploy a model and perform inference on some data. Now is a good time to review some of the key steps that we've covered. You have experience processing data and creating estimators/models, so I'll focus on what you've learned about endpoints.
+
+An endpoint, in this case, is a URL that allows an application and a model to speak to one another.
