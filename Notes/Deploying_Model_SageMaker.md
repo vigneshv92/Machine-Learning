@@ -40,6 +40,8 @@ You've just learned a lot about how to use SageMaker to deploy a model and perfo
 
 An endpoint, in this case, is a URL that allows an application and a model to speak to one another.
 
+<img src="/Visual Representations/model-app-endpoint.png"></p>
+
 #### Endpoint steps
 * You can start an endpoint by calling .deploy() on an estimator and passing in some information about the instance.
 
