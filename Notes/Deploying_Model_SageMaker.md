@@ -82,3 +82,12 @@ For example, you could set up a trigger so that whenever data is uploaded to a p
 One of the big advantages to Lambda functions is that since the amount of code that can be contained in a Lambda function is relatively small, you are only charged for the number of executions.
 
 In our case, the Lambda function we are creating is meant to process user input and interact with our deployed model. Also, the trigger that we will be using is the endpoint that we will create using API Gateway.
+
+#### Create a Lambda Function
+The steps to create a lambda function are outlined in the notebook and here, for convenience.
+
+Setting up a Lambda function The first thing we are going to do is set up a Lambda function. This Lambda function will be executed whenever our public API has data sent to it. When it is executed it will receive the data, perform any sort of processing that is required, send the data (the review) to the SageMaker endpoint we've created and then return the result.
+
+#### Part A: Create an IAM Role for the Lambda function
+
+Since we want the Lambda function to call a SageMaker endpoint, we need to make sure that it has permission to do so. To do this, we will construct a role that we can later give the Lambda function.
