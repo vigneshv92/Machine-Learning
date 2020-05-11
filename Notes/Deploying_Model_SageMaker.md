@@ -151,3 +151,7 @@ def lambda_handler(event, context):
         'body' : str(result)
     }
 ```
+
+### Building an API
+
+[API](https://youtu.be/AzBQ-aDQSG4)
