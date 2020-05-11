@@ -11,3 +11,9 @@ In addition to learning how to use hyperparameter tuning, we will look at Amazon
 ## [Introduction to Hyperparameter Tuning](https://youtu.be/nah8kxqp55U)
 
 Let's take a look at how we can use SageMaker to improve our Boston housing model. To begin with, we will remind ourselves how we train a model using SageMaker.
+
+Essentially, tuning a model means training a bunch of models, each with different hyperparameters, and then choosing the best performing model. Of course, we still need to describe two different aspects of hyperparameter tuning:
+
+1) What is a bunch of models? In other words, how many different models should we train?
+
+2) Which model is the best model? In other words, what sort of metric should we use in order to distinguish how well one model performs relative to another.
