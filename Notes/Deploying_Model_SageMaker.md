@@ -6,7 +6,7 @@ In this lesson, we're going to take a look at how we can use a model that has be
 
 > Recall, from the first lesson in this section, that an endpoint is basically a way to allow a model and an application to communicate. An application, such as a web app, will be responsible for accepting user input data, and through an endpoint we can send that data to our model, which will produce predictions that can be sent back to our application!
 
-----
+<img src="/Visual Representations/m6-l1-c04-endpoint.png"></p>
 
 For our purposes an endpoint is just a URL. Instead of returning a web page, like a typical url, this endpoint URL returns the results of performing inference. In addition, we are able to send data to this URL so that our model knows what to perform inference on. We won't go too far into the details of how this is all set up since SageMaker does most of the heavy lifting for us.
 
