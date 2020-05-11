@@ -59,3 +59,9 @@ response = runtime.invoke_endpoint(EndpointName = xgb_predictor.endpoint,   # Th
                                        ContentType = 'text/csv',                     # The data format that is expected
                                        Body = ','.join([str(val) for val in test_bow]).encode('utf-8'))
  ```
+* The inference data is stored in the "Body" of the response, and can be retrieved:
+
+```python
+response = response['Body'].read().decode('utf-8')
+print(response)
+```
