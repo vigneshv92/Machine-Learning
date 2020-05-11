@@ -17,3 +17,5 @@ Essentially, tuning a model means training a bunch of models, each with differen
 1) What is a bunch of models? In other words, how many different models should we train?
 
 2) Which model is the best model? In other words, what sort of metric should we use in order to distinguish how well one model performs relative to another.
+
+## [Boston Housing Example](https://youtu.be/lsYRtKivrGc)
