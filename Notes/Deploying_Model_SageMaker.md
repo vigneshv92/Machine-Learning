@@ -39,3 +39,6 @@ Currently our endpoint is running. The reason for this is that in the next few v
 You've just learned a lot about how to use SageMaker to deploy a model and perform inference on some data. Now is a good time to review some of the key steps that we've covered. You have experience processing data and creating estimators/models, so I'll focus on what you've learned about endpoints.
 
 An endpoint, in this case, is a URL that allows an application and a model to speak to one another.
+
+#### Endpoint steps
+You can start an endpoint by calling .deploy() on an estimator and passing in some information about the instance.
