@@ -51,5 +51,5 @@ xgb_predictor = xgb.deploy(initial_instance_count = 1, instance_type = 'ml.m4.xl
 from sagemaker.predictor import csv_serializer
 
 xgb_predictor.content_type = 'text/csv'
-```
 xgb_predictor.serializer = csv_serializer
+```
