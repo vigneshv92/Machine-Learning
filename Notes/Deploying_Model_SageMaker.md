@@ -54,3 +54,8 @@ xgb_predictor.content_type = 'text/csv'
 xgb_predictor.serializer = csv_serializer
 ```
 * Then, perform inference; you can pass some data as the "Body" of a message, to an endpoint and get a response back!
+```python
+response = runtime.invoke_endpoint(EndpointName = xgb_predictor.endpoint,   # The name of the endpoint we created
+                                       ContentType = 'text/csv',                     # The data format that is expected
+                                       Body = ','.join([str(val) for val in test_bow]).encode('utf-8'))
+ ```
