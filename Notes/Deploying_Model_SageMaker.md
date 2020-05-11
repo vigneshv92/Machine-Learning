@@ -42,3 +42,7 @@ An endpoint, in this case, is a URL that allows an application and a model to sp
 
 #### Endpoint steps
 You can start an endpoint by calling .deploy() on an estimator and passing in some information about the instance.
+
+```python
+xgb_predictor = xgb.deploy(initial_instance_count = 1, instance_type = 'ml.m4.xlarge')
+```
