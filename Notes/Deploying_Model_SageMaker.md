@@ -41,8 +41,15 @@ You've just learned a lot about how to use SageMaker to deploy a model and perfo
 An endpoint, in this case, is a URL that allows an application and a model to speak to one another.
 
 #### Endpoint steps
-You can start an endpoint by calling .deploy() on an estimator and passing in some information about the instance.
+* You can start an endpoint by calling .deploy() on an estimator and passing in some information about the instance.
 
 ```python
 xgb_predictor = xgb.deploy(initial_instance_count = 1, instance_type = 'ml.m4.xlarge')
 ```
+* Then, you need to tell your endpoint, what type of data it expects to see as input (like .csv).
+```python
+from sagemaker.predictor import csv_serializer
+
+xgb_predictor.content_type = 'text/csv'
+```
+xgb_predictor.serializer = csv_serializer
