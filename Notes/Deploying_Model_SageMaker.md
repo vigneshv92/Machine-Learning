@@ -69,3 +69,6 @@ print(response)
 ```
 xgb_predictor.delete_endpoint()
 ```
+
+### Building a Lamda Function
+[Lamda Function](https://youtu.be/jOXETK4AerU)
