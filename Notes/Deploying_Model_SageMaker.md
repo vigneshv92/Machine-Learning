@@ -161,3 +161,7 @@ At this point we've created and deployed a model, and we've constructed a Lambda
 The way that we will do this is using a service called API Gateway. Essentially, API Gateway allows us to create an HTTP endpoint (a web address). In addition, we can set up what we want to happen when someone tries to send data to our constructed endpoint.
 
 In our application, we want to set it up so that when data is sent to our endpoint, we trigger the Lambda function that we created earlier, making sure to send the data to our Lambda function for processing. Then, once the Lambda function has retrieved the inference results from our model, we return the results back to the original caller.
+
+### Using the Final Web Application
+
+[Web App](https://youtu.be/VgG41Q_a15I)
