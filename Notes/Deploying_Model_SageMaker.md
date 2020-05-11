@@ -20,6 +20,7 @@ Later on we will talk about how to set things up so that a simple web app, which
 
 As mentioned earlier, there are two obstacles we are going to need to overcome. The first is the security issue and the second is data processing. The way that we are going to approach solving these issues is by making use of Amazon Lambda and API Gateway.
 
+<img src="/Visual Representations/web-app.svg"></p>
 
 What this means is that when someone uses our web app, the following will occur.
 
