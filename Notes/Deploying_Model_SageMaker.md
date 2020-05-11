@@ -53,3 +53,4 @@ from sagemaker.predictor import csv_serializer
 xgb_predictor.content_type = 'text/csv'
 xgb_predictor.serializer = csv_serializer
 ```
+* Then, perform inference; you can pass some data as the "Body" of a message, to an endpoint and get a response back!
