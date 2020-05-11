@@ -91,3 +91,11 @@ Setting up a Lambda function The first thing we are going to do is set up a Lamb
 #### Part A: Create an IAM Role for the Lambda function
 
 Since we want the Lambda function to call a SageMaker endpoint, we need to make sure that it has permission to do so. To do this, we will construct a role that we can later give the Lambda function.
+
+#### Part B: Create a Lambda function
+
+Now it is time to actually create the Lambda function. Remember from earlier that in order to process the user provided input and send it to our endpoint we need to gather two pieces of information:
+
+* The name of the endpoint, and
+* the vocabulary object.
+* We will copy these pieces of information to our Lambda function, after we create it.
