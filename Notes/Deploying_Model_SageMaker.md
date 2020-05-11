@@ -66,3 +66,6 @@ response = response['Body'].read().decode('utf-8')
 print(response)
 ```
 * Finally, do not forget to shut down your endpoint when you are done using it.
+```
+xgb_predictor.delete_endpoint()
+```
