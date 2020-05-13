@@ -15,3 +15,5 @@ When this happens we may need to modify our model, often this means re-training 
 To begin with we will create an XGBoost model similar to the ones that we have constructed in the past in order to predict the median housing cost in Boston.
 
 The difference this time is that we are using a hybrid approach, including both the high level and low level functionality. In this case we use the high level approach to train a model (to produce model artifacts) and then we use the low level approach to construct the model itself and to construct the endpoint configuration. The reason for this is so that we can have more control over how our endpoint behaves.
+
+## [Building a Sentiment Analysis Linear Model](https://youtu.be/7TdiVF6qS1k)
