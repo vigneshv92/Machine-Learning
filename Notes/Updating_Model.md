@@ -10,4 +10,4 @@ For instance, in the sentiment analysis examples that we've looked at our models
 
 When this happens we may need to modify our model, often this means re-training it. When we do, we'd like to update the existing endpoint without having to shut it down. Fortunately, SageMaker allows us to do this in a straightforward way.
 
-## Building a Sentiment Analysis Model
+## [Building a Sentiment Analysis Model](https://youtu.be/dwRkA0ig3uU)
