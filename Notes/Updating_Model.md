@@ -24,4 +24,4 @@ In any case you may want to try alternative models. In the example we are workin
 
 Note: It is important to notice that the result returned by the linear learner model is json, compared to the csv data returned by the XGBoost model. You can't always assume that different models will return data in the same way although typically the return type is specified in the documentation.
 
-## [Combining Models]()
+## [Combining Models](https://youtu.be/OYYJerDHu0o)
