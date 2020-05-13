@@ -23,3 +23,5 @@ Depending on the application you have in mind for a particular machine learning 
 In any case you may want to try alternative models. In the example we are working on here we construct a linear learner model as an alternative to the previously created XGBoost model.
 
 Note: It is important to notice that the result returned by the linear learner model is json, compared to the csv data returned by the XGBoost model. You can't always assume that different models will return data in the same way although typically the return type is specified in the documentation.
+
+## [Combining Models]()
