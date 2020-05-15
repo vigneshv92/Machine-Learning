@@ -10,6 +10,6 @@ Case studies are in-depth examinations of specific, real-world tasks. In our cas
 
 > Case Study 1 - Population Segmentation using SageMaker
 
-You’ll look at a portion of US census data and, using a combination of unsupervised learning methods, extract meaningful components from that data and group regions by similar census-recorded characteristics. This case study will be a deep dive into Principal Components Analysis (PCA) and K-Means clustering methods, and the end result will be groupings that are used to inform things like localized marketing campaigns and voter campaign strategies.
+You’ll look at a portion of [US census](https://www.census.gov/data.html) data and, using a combination of unsupervised learning methods, extract meaningful components from that data and group regions by similar census-recorded characteristics. This case study will be a deep dive into Principal Components Analysis (PCA) and K-Means clustering methods, and the end result will be groupings that are used to inform things like localized marketing campaigns and voter campaign strategies.
 
 > Case Study 2 - Detecting Credit Card Fraud
