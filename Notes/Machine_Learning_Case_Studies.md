@@ -12,15 +12,15 @@ Case studies are in-depth examinations of specific, real-world tasks. In our cas
 
 You’ll look at a portion of [US census](https://www.census.gov/data.html) data and, using a combination of unsupervised learning methods, extract meaningful components from that data and group regions by similar census-recorded characteristics. This case study will be a deep dive into Principal Components Analysis (PCA) and K-Means clustering methods, and the end result will be groupings that are used to inform things like localized marketing campaigns and voter campaign strategies.
 
-> Case Study 2 - Detecting Credit Card Fraud
+### Case Study 2 - Detecting Credit Card Fraud
 
 This case will demonstrate how to use supervised learning techniques, specifically SageMaker’s LinearLearner, for fraud detection. The payment transaction dataset we'll work with is unbalanced, with many more examples of valid transactions vs. fraudulent, and so you will investigate methods for compensating for this imbalance and tuning your model to improve its performance according to a specific product goal.
 
-> Custom Models - Non-Linear Classification
+### Custom Models - Non-Linear Classification
 
 Adding on to what you have learned in the credit card fraud case study, you will learn how to manage cases where classes of data are not separable by a linear line. You'll train and deploy a custom, PyTorch neural network for classifying data.
 
-> Case Study 3 - Time-Series Forecasting
+### Case Study 3 - Time-Series Forecasting
 
 This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. In this study, you will learn a bit about creating features out of time series data and formatting it for training.
 
