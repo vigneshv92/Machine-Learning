@@ -19,3 +19,7 @@ This case will demonstrate how to use supervised learning techniques, specifical
 > Custom Models - Non-Linear Classification
 
 Adding on to what you have learned in the credit card fraud case study, you will learn how to manage cases where classes of data are not separable by a linear line. You'll train and deploy a custom, PyTorch neural network for classifying data.
+
+> Case Study 3 - Time-Series Forecasting
+
+This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. In this study, you will learn a bit about creating features out of time series data and formatting it for training.
