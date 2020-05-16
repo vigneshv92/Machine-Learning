@@ -33,5 +33,8 @@ By the end of this course, you should have all the skills you need to build, tra
 
 ### Model Design
 
-<img src="/Visual Representations/active_learning.png"></p>
+> Active Learning
+
 <img src="/Visual Representations/active_model_training.png"/></p>
+
+<img src="/Visual Representations/active_learning.png"></p>
