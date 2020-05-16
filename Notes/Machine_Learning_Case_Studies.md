@@ -24,6 +24,8 @@ Adding on to what you have learned in the credit card fraud case study, you will
 
 This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. In this study, you will learn a bit about creating features out of time series data and formatting it for training.
 
+<img src="/Visual Representations/clustering_time_series.png"/></p>
+
 > Project: Plagiarism Detection
 
 You'll apply the skills that you've learned to a final project; building and deploying a plagiarism classification model. This project will test your ability to do [text] data processing and feature extraction, your ability to train and evaluate models according to an accuracy specification, and your ability to deploy a trained model to an endpoint.
