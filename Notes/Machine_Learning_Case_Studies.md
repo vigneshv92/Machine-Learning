@@ -30,3 +30,8 @@ This case demonstrates how to train SageMaker's DeepAR model for forecasting pre
 
 You'll apply the skills that you've learned to a final project; building and deploying a plagiarism classification model. This project will test your ability to do [text] data processing and feature extraction, your ability to train and evaluate models according to an accuracy specification, and your ability to deploy a trained model to an endpoint.
 By the end of this course, you should have all the skills you need to build, train and deploy models to solve tasks of your own design!
+
+### Model Design
+
+<img src="/Visual Representations/active_learning.png"></p>
+<img src="/Visual Representations/active_model_training.png"/></p>
