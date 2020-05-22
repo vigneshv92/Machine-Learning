@@ -1,6 +1,6 @@
 # Syllabus
 
-Prerequisite: 
+Prerequisite:</br>
 Python for Data Analysis, SQL, Command Line Essentials, Git & Github.
 Additional Material: Data Visualization, Practical Statistics, Linear Algebra.
 
