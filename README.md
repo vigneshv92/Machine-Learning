@@ -6,7 +6,7 @@ Additional Material: Data Visualization, Practical Statistics, Linear Algebra.
 
 This program is all about machine learning techniques used in data science. Here is an overview of what you can expect as you move through the classroom.
 
-There are three parts (or courses) available,
+There are three parts (or courses) available
 
 ## Supervised, Deep, and Unsupervised Learning courses.
 <img src="/Visual Representations/Types of Machine Learning.png" width="700" height="300"/></p>
