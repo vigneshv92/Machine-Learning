@@ -32,14 +32,12 @@ The content is divided into modules listed below
     * [Introduction to Deployment](/Notes/Machine_Learning_in_Production.md)
     * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
     * [Deploying a Model](/Notes/Deploying_Model_SageMaker.md)
+    * [SageMaker Deployment Notebooks](https://github.com/udacity/sagemaker-deployment)
     * [Hyperparameter Tuning](/Notes/Hyperparameter_Tuning.md)
     * [Updating a Model](/Notes/Updating_Model.md)
+    
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
-* Software Engineering Fundamentals
-
-* Notebooks
-   * [SageMaker Deployment](https://github.com/udacity/sagemaker-deployment)
 
 ----
 
