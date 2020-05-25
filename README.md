@@ -72,3 +72,7 @@ Image depicting steps from data exploration to model deployment.
 The final project is open for you to do any project of your choosing, to add to your portfolio. One of the projects you may choose to do is a second project with the messy Arvato data. Alternatively, you might choose another project using Deep Learning to classify dog breeds. Here is a glimpse of the final project.
 
 ----
+
+### Blogs
+
+* [Fairness, Privacy, and Transparency by Design in AI/ML Systems](https://engineering.linkedin.com/blog/2019/fairness-privacy-transparency-by-design)
