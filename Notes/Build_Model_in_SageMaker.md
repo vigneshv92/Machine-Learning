@@ -1,6 +1,7 @@
 ## What is AWS Sagemaker?
 
-AWS (or Amazon) SageMaker is a fully managed service that provides the ability to build, train, tune, deploy, and manage large-scale machine learning (ML) models quickly. Sagemaker provides tools to make each of the following steps simpler.
+AWS (or Amazon) SageMaker is a fully managed service that provides the ability to build, train, tune, deploy, and manage 
+large-scale machine learning (ML) models quickly. Sagemaker provides tools to make each of the following steps simpler.
 
 * Explore and process data
 * Retrieve
