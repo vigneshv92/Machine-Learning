@@ -40,6 +40,7 @@ The content is divided into modules listed below
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
 
 * [Virgilio Data Science](https://virgili0.github.io/Virgilio/)
+* [Machine Learning Explainability]()
 ----
 
 First, we'll start by teaching you some best practices for software engineering. You'll learn how to optimize your code, write tests and documentation for a code base, and build a Python package of your own. These skills are valuable in any engineering job and will act as a great foundation for applying machine learning skills in industry.
