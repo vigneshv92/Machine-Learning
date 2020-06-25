@@ -38,9 +38,10 @@ The content is divided into modules listed below
     
 * Machine Learning Deployment Case Studies
 * Build Your Own Machine Learning Portfolio (Capstone) Project.
-
+   
 * [Virgilio Data Science](https://virgili0.github.io/Virgilio/)
 * [Machine Learning Explainability](https://github.com/SAP/contextual-ai)
+   >Contextual AI adds explainability to different stages of machine learning pipelines - data, training, and inference - thereby addressing the trust gap between such ML systems and their users. It does not refer to a specific algorithm or ML method — instead, it takes a human-centric view and approach to AI.
 ----
 
 First, we'll start by teaching you some best practices for software engineering. You'll learn how to optimize your code, write tests and documentation for a code base, and build a Python package of your own. These skills are valuable in any engineering job and will act as a great foundation for applying machine learning skills in industry.
