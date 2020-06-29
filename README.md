@@ -29,6 +29,7 @@ The content is divided into modules listed below
 
 * [Software Engineering Fundamentals](/Notes/Software_Engineering.md)
 * [Machine Learning taught by Sebastian Raschka at University Wisconsin-Madison](https://github.com/rasbt/stat479-machine-learning-fs19)
+* [](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 * <b>Machine Learning in Production</b>
     * [Introduction to Deployment](/Notes/Machine_Learning_in_Production.md)
     * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
