@@ -28,7 +28,7 @@ The content is divided into modules listed below
 ----
 
 * [Software Engineering Fundamentals](/Notes/Software_Engineering.md)
-* [Machine Learning]()
+* [Machine Learning](https://github.com/rasbt/stat479-machine-learning-fs19)
 * <b>Machine Learning in Production</b>
     * [Introduction to Deployment](/Notes/Machine_Learning_in_Production.md)
     * [Building a Model using SageMaker](/Notes/Build_Model_in_SageMaker.md)
