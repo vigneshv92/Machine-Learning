@@ -23,7 +23,7 @@ This program is all about advanced machine learning techniques used in the indus
 
 The content is divided into modules listed below
 
-----
+-----
 
 * [Software Engineering Fundamentals](/Notes/Software_Engineering.md)
 * [Machine Learning taught by Sebastian Raschka at University Wisconsin-Madison](https://github.com/rasbt/stat479-machine-learning-fs19)
@@ -58,7 +58,7 @@ In partnership with AWS, we’ve created a course that examines a variety of mac
 How do you decide on the correct machine learning model for a given task?
 How can you utilize cloud deployment tools such as AWS SageMaker to work with data and improve your machine learning models?
 
-----
+-----
 
 ## Projects
 
