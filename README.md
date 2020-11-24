@@ -82,3 +82,4 @@ The final project is open for you to do any project of your choosing, to add to 
 ### Blogs
 
 * [Fairness, Privacy, and Transparency by Design in AI/ML Systems](https://engineering.linkedin.com/blog/2019/fairness-privacy-transparency-by-design)
+* [Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/)
