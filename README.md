@@ -28,6 +28,7 @@ The content is divided into modules listed below
 
 -----
 
+* [handson-ml](https://github.com/ageron/handson-ml)
 * [Software Engineering Fundamentals](/Notes/Software_Engineering.md)
 * [Machine Learning taught by Sebastian Raschka at University Wisconsin-Madison](https://github.com/rasbt/stat479-machine-learning-fs19)
 * [Python Machine Learning by Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
