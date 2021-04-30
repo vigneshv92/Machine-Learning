@@ -6,6 +6,10 @@ Additional Material: Data Visualization, Practical Statistics, Linear Algebra.
 
 This program is all about machine learning techniques used in data science. Here is an overview of what you can expect as you move through the classroom.
 
+## Principles of ML
+
+* [MicrosoftLearning/Principles of Machine Learning](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python)
+
 ## Mathematics for ML
 
 * [NextAI - Mathematics for ML](https://github.com/NEXTCanada/NextAI-MachineLearning)
