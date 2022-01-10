@@ -97,3 +97,5 @@ The final project is open for you to do any project of your choosing, to add to 
 * [Machine Learning Engineering Blogs](https://github.com/eugeneyan/applied-ml#data-engineering)
 * [Microsoft Machine Learning](https://github.com/microsoft/machine-learning-collection)
 * [Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+### [Machine Learning System Design](https://github.com/chiphuyen/machine-learning-systems-design)
