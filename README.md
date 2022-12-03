@@ -18,7 +18,8 @@ This program is all about machine learning techniques used in data science. Here
 
 ## Principles of ML
 
-* [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) 
+* [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html)
+* [UCL Research Course](http://github-pages.ucl.ac.uk/rsd-engineeringcourse/)
 
 ## Supervised, Deep, and Unsupervised Learning courses.
 <img src="/Visual Representations/Types of Machine Learning.png" width="700" height="300"/></p>
