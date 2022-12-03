@@ -16,6 +16,10 @@ This program is all about machine learning techniques used in data science. Here
 * [Mathematics For Machine Learning](https://github.com/mml-book/mml-book.github.io)
 * [ML for Beginners(Microsoft)](https://github.com/microsoft/ML-For-Beginners)
 
+## Principles of ML
+
+* [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html) 
+
 ## Supervised, Deep, and Unsupervised Learning courses.
 <img src="/Visual Representations/Types of Machine Learning.png" width="700" height="300"/></p>
 
